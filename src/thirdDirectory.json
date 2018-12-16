@@ -1,0 +1,16 @@
+[{
+    "name":"kinetic.png",
+    "type":"png",
+    "size":"2.4"
+  },
+  {
+    "name":"Spiderman.mp4",
+    "type":"mp4",
+    "size":"3"
+  },
+  {
+    "name":".attack.cpp",
+    "type":"cpp",
+    "size":"1.2"
+  }
+]

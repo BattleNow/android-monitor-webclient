@@ -1,0 +1,26 @@
+[{
+  "name":".android",
+  "type":"folder",
+  "size":"64"
+},
+  {
+    "name":"._android.dat",
+    "type":"dat",
+    "size":"11"
+  },
+  {
+    "name":"Venom.png",
+    "type":"png",
+    "size":"6.2"
+  },
+  {
+    "name":"Luckyou.mp4",
+    "type":"mp4",
+    "size":"12"
+  },
+  {
+    "name":"proportion.txt",
+    "type":"txt",
+    "size":"7.4"
+  }
+]
